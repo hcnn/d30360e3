@@ -1,0 +1,9 @@
+{
+  "name": "d30360e3",
+  "version": "0.1.0",
+  "repo": "hcnn/d30360e3",
+  "description": "Date difference in years according to the 30E3/360 daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "30E3/360", "Eurobond basis model 3"],
+  "license": "MIT",
+  "src": ["d30360e3.c", "d30360e3.h"]
+}
